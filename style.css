@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+nav a {
+  background-color: gray;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+}
+img {
+  margin: auto;
+  width: 900px;
+  text-align: center;
+}
+p {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+section {
+  text-align: center;
+}
+#details {
+  background-color: red;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
